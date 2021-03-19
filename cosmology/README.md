@@ -1,1 +1,1 @@
-"# cosmology" 
+A continuation on the earlier work presented in the thesis directory. The main change is the use of transformers and moving away from inaccurate mass maps. This has resulted in a more reassuring curve of computing power to results, making it likely that this approach will improve into the future as more compute is used.
